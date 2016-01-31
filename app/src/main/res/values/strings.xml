@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">File_Browser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="mbcolor">
+        <item>Green</item>
+        <item>Light Green</item>
+        <item>Brown</item>
+        <item>Light Blue</item>
+        <item>Light Red</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="colorvalue">
+        <item>#90f030</item>
+        <item>#99f893</item>
+        <item>#808080</item>
+        <item>#2cabe2</item>
+        <item>#ff6b4f</item>
+        <item>#fff5a2</item>
+    </string-array>
+
+
+</resources>
